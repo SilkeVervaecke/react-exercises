@@ -6,8 +6,6 @@ import Footer from './components/Footer/Footer';
 
 function App() {
 
-  const [ nthFibonacciNumber, setNthFibonacciNumber ] = useState(0);
-
   return (
     <div className={`App`}>
       <Header/>
